@@ -68,6 +68,11 @@ Constant pool:
   #10 = Utf8               Hello World
 ```
 
+## Run program
+```
+java JavaByHand
+```
+Yes, the .class is not included
 
 ## Take aways 
  - useage of javap
